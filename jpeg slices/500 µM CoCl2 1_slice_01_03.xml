@@ -1,0 +1,50 @@
+<annotation>
+	<folder>jpeg slices</folder>
+	<filename>500 µM CoCl2 1_slice_01_03.jpg</filename>
+	<path>G:\PyScripts\morpho_training\jpeg slices\500 µM CoCl2 1_slice_01_03.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>613</width>
+		<height>514</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dead</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>230</ymin>
+			<xmax>46</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dead</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>1</ymin>
+			<xmax>369</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dead</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>413</xmin>
+			<ymin>245</ymin>
+			<xmax>475</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>
